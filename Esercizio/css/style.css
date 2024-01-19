@@ -77,7 +77,8 @@ background-color: rgb(189, 30, 30); }
 
 
 .schede{border: 1px solid #dee1e3;
-    max-width:375px;
+    max-width:300px;
+    margin-left: 3rem;
     
 margin-top: 2rem;
 padding-bottom: 2rem;}
